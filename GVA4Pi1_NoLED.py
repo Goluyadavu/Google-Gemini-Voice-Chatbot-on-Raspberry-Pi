@@ -1,7 +1,7 @@
 # A Voice Chatbot built with Google Gemini Pro and Python for RPi
 # Tested and working on RP 4 model B. 
 # By TechMakerAI on YouTube
-# 
+# golu
 import google.generativeai as genai
 import speech_recognition as sr
 from datetime import date
